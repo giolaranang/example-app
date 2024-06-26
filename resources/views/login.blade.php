@@ -1,0 +1,5 @@
+  <html>
+
+  <livewire:login/>
+
+  </html>
